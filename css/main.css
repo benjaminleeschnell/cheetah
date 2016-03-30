@@ -34,11 +34,11 @@ span {
 }
 
 @media screen and (max-width: 400px) {
-body {
-	background: url('../img/cheetah-background.jpg') center center no-repeat fixed;
-	background-size: cover;
-	position: relative;
-}
+	body {
+		background: url('../img/baby-cheetah.jpg') center center no-repeat fixed;
+		background-size: cover;
+		position: relative;
+	}
 }
 
 
