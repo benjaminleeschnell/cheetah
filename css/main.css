@@ -1,0 +1,35 @@
+body {
+	background: url('../img/cheetah-background.jpg') center center no-repeat fixed;
+	background-size: cover;
+	position: relative;
+}
+
+img {
+	max-width: 200px;
+}
+
+p {
+	max-width: 270px;
+	color: white;
+}
+
+h3 {
+	color: red;
+}
+
+.miles {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+span {
+	font-weight: bold;
+}
+
+@media screen and (max-width: 550px) {
+	.miles {
+		position: relative;
+	}
+}
+
